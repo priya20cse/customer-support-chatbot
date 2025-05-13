@@ -1,0 +1,29 @@
+# customer-support-chatbot
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+         "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    ...
+  ]
+}
+
+
+
+
+
+
